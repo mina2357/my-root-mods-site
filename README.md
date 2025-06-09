@@ -1,6 +1,4 @@
-# My Root Mods Site
-
-# ![Project Logo](https://logo-suggestion.renderforest.com/suggestions-images/31df/e5b0/31dfe5b06f7d9adfccec471ceb28e9c8.png)
+![Project Logo](https://logo-suggestion.renderforest.com/suggestions-images/31df/e5b0/31dfe5b06f7d9adfccec471ceb28e9c8.png)
 
 # My Root Mods Site
 
