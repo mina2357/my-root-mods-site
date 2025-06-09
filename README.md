@@ -1,14 +1,12 @@
 # My Root Mods Site
 
-![Project Logo](path/to/logo.png)
+# ![Project Logo](https://logo-suggestion.renderforest.com/suggestions-images/31df/e5b0/31dfe5b06f7d9adfccec471ceb28e9c8.png)
 
----
+# My Root Mods Site
 
-## Overview
+A modern, responsive website showcasing powerful root modifications for your device.
 
-My Root Mods Site is a platform to explore and download powerful root modifications to enhance your device's performance and security.
-
----
+...
 
 ## Features
 
